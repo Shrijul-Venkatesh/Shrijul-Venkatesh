@@ -2,17 +2,22 @@
 <h3 align="center">AI Engineer | ML Researcher | Builder of Intelligent Systems</h3>
 
 🚀 I specialize in designing and building **AI-driven platforms, intelligent developer tools, and autonomous systems**.  
-My work brings together **machine learning, deep learning, and large language model (LLM) orchestration** to solve real-world problems.  
+My work focuses on **machine learning, deep learning, large language model orchestration, and AI-powered automation**.
 
 ### 🔧 Featured Projects
-- 📦 [**Enhanced Toolkits**](https://github.com/Shrijul-Venkatesh/enhanced-toolkits) – A developer toolkit library for seamless AI agent workflows and orchestration.  
-- 🔍 [**CodeLens**](https://github.com/Shrijul-Venkatesh/codelens) – An AI-powered GitHub repository analyzer with workflow diagrams, chat assistant, and instant audio previews.  
-- 🤖 [**RAMOS**](https://github.com/Shrijul-Venkatesh/ramos) – An AI customer support assistant that intelligently routes queries, answers product questions, and generates support tickets.  
+- 📦 **Enhanced Toolkits** – A production-ready library of AI agent toolkits for reasoning, search, finance, file management, and multi-modal workflows.  
+  **Tools/Tech:** Python, OpenAI API, Agno Framework, Caching, Throttling, Strict JSON schemas.
+
+- 🔍 **CodeLens** – AI-powered codebase analysis platform that generates repository summaries, workflow diagrams, interactive chat, and audio previews.  
+  **Tools/Tech:** Python, FastAPI, React, Tailwind CSS, Agno, Groq, ChromaDB, PyGithub, SQLite.
+
+- 🤖 **RAMOS** – Intelligent customer support assistant that routes inquiries, answers product questions, and creates support tickets automatically.  
+  **Tools/Tech:** Python, FastAPI, Agno, ChromaDB, Mistral AI, Tavily API, Docker.
 
 ### 🌱 What I’m Learning
 - **Deep learning architectures** for vision and NLP  
-- **LLM-powered agent systems** and orchestration frameworks  
-- **AI infrastructure** for scalable deployment and monitoring  
+- **LLM-powered agent orchestration and automation frameworks**  
+- **Scalable AI infrastructure** for production deployments  
 
 ### 📫 How to Reach Me
 - Email: **venkateshshrijul@gmail.com**  
