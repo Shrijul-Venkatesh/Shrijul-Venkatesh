@@ -76,11 +76,7 @@ I specialize in building intelligence-driven applications using modern framework
 ## 📊 Contributions This Year
 
 <p align="center">
-  <img src="https://github-contributions.vercel.app/api/badge?username=Shrijul-Venkatesh&limit=365&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/Shrijul-Venkatesh?theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrijul-venkatesh&theme=react-dark&hide_border=true" />
 </p>
 
 ---
